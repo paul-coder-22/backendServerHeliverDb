@@ -1,7 +1,6 @@
 /.env
 /.vscode
 /Data
-/db.js
 /index_@.js
 /Logic.txt
 /user.js
